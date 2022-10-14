@@ -4,7 +4,7 @@ This code contains the numerical materials required to replicate the 2022 Neurip
 
 ## License 
 
-Until such time as this license has been updated, distribution, reproduction, or modification is strictly prohibited. Formal publication of this code will occur post-publication under a different license. 
+Published under an MIT license
 
 To support Figure 5 of the published work, a subset of the published code is drawn from the MACER libaries of https://github.com/RuntianZ/macer - all pieces of code based upon MACER have this attribution indicated in the preamble of the code.
 
